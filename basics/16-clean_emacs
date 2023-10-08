@@ -1,2 +1,2 @@
 #!/bin/bash
-rm -f {*.xvg,.*.xvg}
+rm -f {.*.xvg}
