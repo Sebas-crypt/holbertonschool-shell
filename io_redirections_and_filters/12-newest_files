@@ -1,2 +1,2 @@
 #!/bin/bash
--r flag
+ls -C -t flag
