@@ -1,2 +1,2 @@
 #!/bin/bash
-egrep /etc/passwd
+sort -d | find /etc/passwd /home/* -type -d | uniq | less
