@@ -1,2 +1,2 @@
-#!/bin/bash 
--t flag ls -1
+#!/bin/bash
+find -type f: -exec ls -t1 {}+
