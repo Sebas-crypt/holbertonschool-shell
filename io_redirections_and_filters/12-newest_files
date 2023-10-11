@@ -1,2 +1,2 @@
-#!/bin/bash
-ls -C -t flag
+#!/bin/bash 
+-t flag ls -x
